@@ -1,21 +1,102 @@
-# 💫 About Me:
-Hi, I’m an Android & Hybrid App Developer passionate about building modern, scalable, and user-friendly mobile applications.<br><br>I have strong experience in Android development using Kotlin, Java, XML, and Jetpack Compose, along with cross-platform development using React Native. I enjoy working across both native and hybrid platforms, creating efficient and high-performance apps.<br><br>I follow clean coding practices and architectures like MVVM and Clean Architecture to build maintainable and scalable applications. I have experience working with APIs, local databases like Room, and developing real-world applications.<br><br>I’m continuously exploring new technologies like Kotlin Multiplatform and advanced Android libraries to improve my skills and stay updated with modern development trends.
+<p align="center">
+  <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" />
+</p>
+<h1 align="center">Hi 👋, I'm Vikas Chauhan</h1>
+<h3 align="center">A passionate Native and Hybrid Mobile App developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
 
-
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/vikasdev9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vikaschauhan1101) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vikas-chauhan-405961227) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vikastech986@gmail.com) 
-
-# 💻 Tech Stack:
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vikasdev9&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vikasdev9&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vikasdev9&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vikasdev9&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikasdev9&label=Profile%20views&color=0e75b6&style=flat" alt="vikasdev9" /> </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vikasdev9&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 📱 Android Developer skilled in **Kotlin, Java, XML & Jetpack Compose**
+- ⚛️ Hybrid App Developer using **React Native**
+- 🔄 Building apps for both **native & cross-platform**
+- 🏗️ Following **MVVM & Clean Architecture**
+- 🗄️ Experience with **Room, APIs & scalable apps**
+- 🌱 Currently exploring **Kotlin Multiplatform (KMP)**
+- ⚡ Fun fact: **I love building real-world apps**
+
+---
+
+## 🚀 What I'm Up To
+
+![Currently Working](https://img.shields.io/badge/Currently%20Working%20On-LYTHM%20MUSIC%20PLAYER-orange?style=for-the-badge)
+![Exploring](https://img.shields.io/badge/Exploring-Jetpack%20Compose-blue?style=for-the-badge)
+![Exploring](https://img.shields.io/badge/Exploring-Kotlin%20Multiplatform-purple?style=for-the-badge)
+![Exploring](https://img.shields.io/badge/Exploring-Multi%20Modular%20Architecture-green?style=for-the-badge)
+![Skills](https://img.shields.io/badge/Skills%20%26%20Learning-Android%20Practice%20Hub-pink?style=for-the-badge)
+![Email](https://img.shields.io/badge/Contact-vikastech986%40gmail.com-red?style=for-the-badge)
+
+---
+
+## 📱 My Play Store Apps
+
+![Play Store](https://img.shields.io/badge/Play%20Store-Developer-green?style=for-the-badge)
+![App](https://img.shields.io/badge/Audio%20Trimmer-Download-blue?style=for-the-badge)
+![App](https://img.shields.io/badge/Audio%20Cutter-Download-orange?style=for-the-badge)
+![App](https://img.shields.io/badge/Wallpaper%20App-Download-green?style=for-the-badge)
+
+---
+
+## 🚀 Featured Projects
+
+![Project](https://img.shields.io/badge/Music%20Player-Project-blueviolet?style=for-the-badge)
+![Project](https://img.shields.io/badge/Weather%20App-Project-green?style=for-the-badge)
+![Project](https://img.shields.io/badge/Chat%20App-Project-orange?style=for-the-badge)
+![Project](https://img.shields.io/badge/Quiz%20App-Project-blue?style=for-the-badge)
+
+---
+
+## ✍️ My Medium Articles
+
+![Article](https://img.shields.io/badge/Android%20Basics-Read-blue?style=for-the-badge)
+![Article](https://img.shields.io/badge/Room%20Database-Read-green?style=for-the-badge)
+![Article](https://img.shields.io/badge/Jetpack%20Compose-Read-purple?style=for-the-badge)
+
+---
+
+## 🤝 Connect With Me
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)
+![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge)
+![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge)
+
+---
+
+## 🛠️ Languages & Tools
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![KMP](https://img.shields.io/badge/Kotlin%20Multiplatform-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
+
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A66C2?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+
+## 🧪 Android Testing Tools
+
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-6E4C13?style=for-the-badge)
+![Espresso](https://img.shields.io/badge/Espresso-795548?style=for-the-badge)
+![Android Testing](https://img.shields.io/badge/Android%20Testing-3DDC84?style=for-the-badge&logo=android&logoColor=white)
