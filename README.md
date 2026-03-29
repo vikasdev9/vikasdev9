@@ -3,13 +3,14 @@
 </p>
 <h1 align="center">Hi 👋, I'm Vikas Chauhan</h1>
 <h3 align="center">A passionate Native and Hybrid Mobile App developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikasdev9&label=Profile%20views&color=0e75b6&style=flat" alt="vikasdev9" /> </p>
 
----
 
 ## 🚀 About Me
+
+<div>
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="360"/>
 
 - 📱 Android Developer skilled in **Kotlin, Java, XML & Jetpack Compose**
 - ⚛️ Hybrid App Developer using **React Native**
@@ -18,6 +19,10 @@
 - 🗄️ Experience with **Room, APIs & scalable apps**
 - 🌱 Currently exploring **Kotlin Multiplatform (KMP)**
 - ⚡ Fun fact: **I love building real-world apps**
+
+</div>
+
+<br clear="right"/>
 
 ---
 
