@@ -57,9 +57,8 @@
 
 ## ✍️ My Medium Articles
 
-![Article](https://img.shields.io/badge/Android%20Basics-Read-blue?style=for-the-badge)
-![Article](https://img.shields.io/badge/Room%20Database-Read-green?style=for-the-badge)
-![Article](https://img.shields.io/badge/Jetpack%20Compose-Read-purple?style=for-the-badge)
+[![Room Database](https://img.shields.io/badge/Room%20Database-Read-green?style=for-the-badge)](https://medium.com/@vikaschauhan0368/why-many-android-teams-move-beyond-room-database-b35112563866)
+[![derivedStateOf](https://img.shields.io/badge/Jetpack%20Compose-derivedStateOf-purple?style=for-the-badge)](https://medium.com/@vikaschauhan0368/1-derivedstateof-preventing-unnecessary-recompositions-94722711381f)
 
 ---
 
