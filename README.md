@@ -48,10 +48,10 @@
 
 ## 🚀 Featured Projects
 
-![Project](https://img.shields.io/badge/Music%20Player-Project-blueviolet?style=for-the-badge)
-![Project](https://img.shields.io/badge/Weather%20App-Project-green?style=for-the-badge)
-![Project](https://img.shields.io/badge/Chat%20App-Project-orange?style=for-the-badge)
-![Project](https://img.shields.io/badge/Quiz%20App-Project-blue?style=for-the-badge)
+[![AudioTrimmer](https://img.shields.io/badge/AudioTrimmer-Project-blueviolet?style=for-the-badge)](https://github.com/vikasdev9/AudioTrimmer)
+[![AiExamMentor](https://img.shields.io/badge/AiExamMentor-Project-green?style=for-the-badge)](https://github.com/vikasdev9/AiExamMentor)
+[![CaptionAI](https://img.shields.io/badge/CaptionAI-Project-orange?style=for-the-badge)](https://github.com/vikasdev9/CaptionAI)
+[![Xclone](https://img.shields.io/badge/Xclone-Project-blue?style=for-the-badge)](https://github.com/vikasdev9/Xclone)
 
 ---
 
