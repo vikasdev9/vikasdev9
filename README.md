@@ -37,15 +37,6 @@
 
 ---
 
-## 📱 My Play Store Apps
-
-![Play Store](https://img.shields.io/badge/Play%20Store-Developer-green?style=for-the-badge)
-![App](https://img.shields.io/badge/Audio%20Trimmer-Download-blue?style=for-the-badge)
-![App](https://img.shields.io/badge/Audio%20Cutter-Download-orange?style=for-the-badge)
-![App](https://img.shields.io/badge/Wallpaper%20App-Download-green?style=for-the-badge)
-
----
-
 ## 🚀 Featured Projects
 
 [![AudioTrimmer](https://img.shields.io/badge/AudioTrimmer-Project-blueviolet?style=for-the-badge)](https://github.com/vikasdev9/AudioTrimmer)
