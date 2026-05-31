@@ -28,11 +28,19 @@
 
 ## 🚀 What I'm Up To
 
-![Currently Working](https://img.shields.io/badge/Currently%20Working%20On-LYTHM%20MUSIC%20PLAYER-orange?style=for-the-badge)
-![Exploring](https://img.shields.io/badge/Exploring-Jetpack%20Compose-blue?style=for-the-badge)
-![Exploring](https://img.shields.io/badge/Exploring-Kotlin%20Multiplatform-purple?style=for-the-badge)
-![Exploring](https://img.shields.io/badge/Exploring-Multi%20Modular%20Architecture-green?style=for-the-badge)
-![Skills](https://img.shields.io/badge/Skills%20%26%20Learning-Android%20Practice%20Hub-pink?style=for-the-badge)
+🔄 Converting a legacy Java Android application to Kotlin Multiplatform (KMP) for cross-platform development.
+
+📚 Currently exploring:
+- Kotlin Multiplatform (KMP)
+- Multi-Module Android Architecture
+- Scalable Android Codebases
+
+### Recommended Reads
+
+[![Android Modularization](https://img.shields.io/badge/Article-Android%20Modularization-green?style=for-the-badge)](https://developer.android.com/topic/modularization)
+
+[![Multi Module Navigation](https://img.shields.io/badge/Article-Multi%20Module%20Navigation-blue?style=for-the-badge)](https://www.droidcon.com/2022/09/09/android-multi-module-navigation/)
+
 ![Email](https://img.shields.io/badge/Contact-vikastech986%40gmail.com-red?style=for-the-badge)
 
 ---
