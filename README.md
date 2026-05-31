@@ -65,10 +65,10 @@
 
 ## 🤝 Connect With Me
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)
-![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge)
-![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/vikas-chauhan-405961227/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge)](https://unique-moonbeam-30e60c.netlify.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge)](mailto:vikastech986@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge)](https://github.com/vikasdev9)
 
 ---
 
